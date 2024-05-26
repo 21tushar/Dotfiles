@@ -1,0 +1,8 @@
+{
+    "workbench.startupEditor": "none",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "NotoSansMono Nerd Font",
+    "terminal.integrated.fontFamily": "Nerd Font"
+}

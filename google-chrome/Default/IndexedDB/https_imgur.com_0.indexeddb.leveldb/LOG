@@ -1,0 +1,7 @@
+2024/05/22-19:31:10.223 14ba Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/22-19:31:10.223 14ba Recovering log #4
+2024/05/22-19:31:10.233 14ba Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000004.log 
+2024/05/22-19:31:10.395 14bb Level-0 table #8: started
+2024/05/22-19:31:10.429 14bb Level-0 table #8: 3420 bytes OK
+2024/05/22-19:31:10.473 14bb Delete type=0 #4
+2024/05/22-19:31:10.474 14ba Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)

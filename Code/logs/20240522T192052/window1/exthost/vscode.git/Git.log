@@ -1,0 +1,133 @@
+2024-05-22 19:20:55.755 [info] Log level: Info
+2024-05-22 19:20:55.755 [info] Validating found git in: "git"
+2024-05-22 19:20:55.755 [info] Using git "2.45.1" from "git"
+2024-05-22 19:20:55.755 [info] > git rev-parse --show-toplevel [13ms]
+2024-05-22 19:20:55.755 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:20:55.755 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-22 19:20:55.755 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:20:55.756 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-22 19:20:55.756 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:20:55.777 [info] > git rev-parse --show-toplevel [11ms]
+2024-05-22 19:20:55.792 [info] > git rev-parse --git-dir --git-common-dir [2ms]
+2024-05-22 19:20:55.816 [info] Open repository: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App
+2024-05-22 19:20:55.847 [info] No remotes found in the git config file.
+2024-05-22 19:20:55.849 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [3ms]
+2024-05-22 19:20:55.850 [info] > git config --get commit.template [15ms]
+2024-05-22 19:20:55.864 [info] > git status -z -uall [6ms]
+2024-05-22 19:20:55.900 [info] > git config --get commit.template [16ms]
+2024-05-22 19:20:56.210 [info] No remotes found in the git config file.
+2024-05-22 19:20:56.389 [info] > git rev-parse --show-toplevel [171ms]
+2024-05-22 19:20:56.389 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:20:56.392 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [185ms]
+2024-05-22 19:20:56.461 [info] > git status -z -uall [54ms]
+2024-05-22 19:20:56.462 [info] > git check-ignore -v -z --stdin [8ms]
+2024-05-22 19:20:57.911 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-22 19:20:57.911 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:21:23.058 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:21:23.058 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:21:34.856 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-22 19:21:34.856 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:21:39.215 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:21:39.215 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:21:53.897 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:21:53.897 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:22:06.028 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:22:06.028 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:23:29.305 [info] > git show --textconv :src/App.js [18ms]
+2024-05-22 19:23:29.308 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [7ms]
+2024-05-22 19:23:29.322 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-22 19:23:34.780 [info] > git rev-parse --show-toplevel [14ms]
+2024-05-22 19:23:34.780 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:23:39.769 [info] > git show --textconv :src/App.js [6ms]
+2024-05-22 19:23:39.770 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-22 19:23:39.775 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-22 19:23:58.069 [info] > git show --textconv :src/App.js [8ms]
+2024-05-22 19:23:58.070 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-22 19:23:58.075 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [1ms]
+2024-05-22 19:26:04.589 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:26:04.589 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:26:27.790 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:26:27.791 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:26:36.922 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:26:36.922 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:26:42.896 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:26:42.896 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:26:57.277 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-22 19:26:57.277 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:07.759 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:27:07.760 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:11.966 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:27:11.966 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:15.468 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:27:15.468 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:20.491 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:27:20.491 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:39.539 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:27:39.539 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:43.692 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-22 19:27:43.692 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:53.304 [info] > git rev-parse --show-toplevel [2ms]
+2024-05-22 19:27:53.304 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:27:56.628 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-22 19:27:56.628 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:28:05.665 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-22 19:28:05.665 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:28:15.835 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-22 19:28:15.835 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:28:30.307 [info] > git show --textconv :src/App.js [13ms]
+2024-05-22 19:28:30.308 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [5ms]
+2024-05-22 19:28:30.320 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [3ms]
+2024-05-22 19:28:32.224 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-22 19:28:32.224 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:28:37.700 [info] > git show --textconv :src/App.js [6ms]
+2024-05-22 19:28:37.701 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-22 19:28:37.708 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-22 19:37:36.606 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-22 19:37:36.606 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:37:40.918 [info] > git show --textconv :src/App.js [6ms]
+2024-05-22 19:37:40.919 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-22 19:37:40.928 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-22 19:37:48.053 [info] > git show --textconv :src/App.js [6ms]
+2024-05-22 19:37:48.054 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-22 19:37:48.061 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-22 19:38:52.087 [info] > git show --textconv :src/App.js [6ms]
+2024-05-22 19:38:52.090 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [3ms]
+2024-05-22 19:38:52.096 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [1ms]
+2024-05-22 19:38:54.143 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-22 19:38:54.143 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-22 19:38:57.168 [info] > git show --textconv :src/App.js [6ms]
+2024-05-22 19:38:57.169 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-22 19:38:57.177 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-22 19:39:05.755 [info] No remotes found in the git config file.
+2024-05-22 19:39:05.756 [info] > git config --get commit.template [6ms]
+2024-05-22 19:39:05.756 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-22 19:39:05.764 [info] > git status -z -uall [3ms]

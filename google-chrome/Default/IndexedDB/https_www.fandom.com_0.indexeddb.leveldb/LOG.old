@@ -1,0 +1,6 @@
+2024/05/21-00:20:35.595 4c644 Creating DB /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2024/05/21-00:20:35.695 4c644 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/21-00:32:46.132 4c645 Level-0 table #5: started
+2024/05/21-00:32:46.165 4c645 Level-0 table #5: 3577 bytes OK
+2024/05/21-00:32:46.221 4c645 Delete type=0 #3
+2024/05/21-00:32:46.221 4c645 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,34 @@
+2024/05/26-11:26:24.190 358d Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.cricbuzz.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/26-11:26:24.204 358d Recovering log #168
+2024/05/26-11:26:24.204 358d Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.cricbuzz.com_0.indexeddb.leveldb/000168.log 
+2024/05/26-11:26:24.204 358d Delete type=2 #167
+2024/05/26-11:26:24.429 35b9 Level-0 table #173: started
+2024/05/26-11:26:24.462 35b9 Level-0 table #173: 2068 bytes OK
+2024/05/26-11:26:24.563 35b9 Delete type=0 #168
+2024/05/26-11:26:24.563 358d Manual compaction at level-0 from '\x003\x00\x00\x00' @ 72057594037927935 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at '\x003\x00\x00\x05' @ 2156 : 1
+2024/05/26-11:26:24.563 358d Compacting 1@0 + 1@1 files
+2024/05/26-11:26:24.596 358d Generated table #174@0: 30 keys, 1468 bytes
+2024/05/26-11:26:24.596 358d Compacted 1@0 + 1@1 files => 1468 bytes
+2024/05/26-11:26:24.751 358d compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/26-11:26:24.752 358d Delete type=2 #173
+2024/05/26-11:26:24.752 358d Manual compaction at level-0 from '\x003\x00\x00\x05' @ 2156 : 1 .. '\x004\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/26-11:26:27.974 358e Level-0 table #176: started
+2024/05/26-11:26:28.007 358e Level-0 table #176: 1490 bytes OK
+2024/05/26-11:26:28.085 358e Delete type=2 #170
+2024/05/26-11:26:28.085 358e Delete type=0 #172
+2024/05/26-11:26:28.085 358e Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x002\x000\x008\x001\x009\x001\x001\x007\x009\x007\x007\x00:\x00w\x00e\x00b\x00:\x00e\x00a\x00b\x00f\x003\x005\x004\x004\x00a\x00c\x001\x003\x006\x00b\x001\x00a\x006\x004\x003\x005\x000\x008' @ 2175 : 1
+2024/05/26-11:26:28.086 358e Compacting 1@0 + 1@1 files
+2024/05/26-11:26:28.118 358e Generated table #177@0: 32 keys, 1475 bytes
+2024/05/26-11:26:28.119 358e Compacted 1@0 + 1@1 files => 1475 bytes
+2024/05/26-11:26:28.196 358e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/26-11:26:28.196 358e Delete type=2 #174
+2024/05/26-11:26:28.196 358e Delete type=2 #176
+2024/05/26-11:26:28.196 358e Manual compaction at level-0 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x002\x000\x008\x001\x009\x001\x001\x007\x009\x007\x007\x00:\x00w\x00e\x00b\x00:\x00e\x00a\x00b\x00f\x003\x005\x004\x004\x00a\x00c\x001\x003\x006\x00b\x001\x00a\x006\x004\x003\x005\x000\x008' @ 2175 : 1 .. (end); will stop at (end)
+2024/05/26-11:26:28.197 358e Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x002\x000\x008\x001\x009\x001\x001\x007\x009\x007\x007\x00:\x00w\x00e\x00b\x00:\x00e\x00a\x00b\x00f\x003\x005\x004\x004\x00a\x00c\x001\x003\x006\x00b\x001\x00a\x006\x004\x003\x005\x000\x008' @ 2183 : 1
+2024/05/26-11:26:28.197 358e Compacting 1@1 + 1@2 files
+2024/05/26-11:26:28.218 358e Generated table #178@1: 21 keys, 1335 bytes
+2024/05/26-11:26:28.218 358e Compacted 1@1 + 1@2 files => 1335 bytes
+2024/05/26-11:26:28.285 358e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/26-11:26:28.285 358e Delete type=2 #139
+2024/05/26-11:26:28.285 358e Delete type=2 #177
+2024/05/26-11:26:28.285 358e Manual compaction at level-1 from '\x00\x02\x01\x02\x013\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]\x00!\x001\x00:\x008\x002\x000\x008\x001\x009\x001\x001\x007\x009\x007\x007\x00:\x00w\x00e\x00b\x00:\x00e\x00a\x00b\x00f\x003\x005\x004\x004\x00a\x00c\x001\x003\x006\x00b\x001\x00a\x006\x004\x003\x005\x000\x008' @ 2183 : 1 .. (end); will stop at (end)

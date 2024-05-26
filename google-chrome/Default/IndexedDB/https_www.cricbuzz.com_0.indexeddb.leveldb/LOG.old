@@ -1,0 +1,25 @@
+2024/05/24-19:34:12.791 f5e7 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.cricbuzz.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/24-19:34:12.792 f5e7 Recovering log #161
+2024/05/24-19:34:12.792 f5e7 Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.cricbuzz.com_0.indexeddb.leveldb/000161.log 
+2024/05/24-19:34:12.793 f5e7 Delete type=2 #160
+2024/05/24-19:34:13.069 f5e6 Level-0 table #166: started
+2024/05/24-19:34:13.091 f5e6 Level-0 table #166: 1692 bytes OK
+2024/05/24-19:34:13.158 f5e6 Delete type=0 #161
+2024/05/24-19:34:13.158 f5e6 Manual compaction at level-0 from '\x001\x00\x00\x00' @ 72057594037927935 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at '\x001\x00\x00\x05' @ 2070 : 1
+2024/05/24-19:34:13.159 f5e6 Compacting 1@0 + 1@1 files
+2024/05/24-19:34:13.191 f5e6 Generated table #167@0: 30 keys, 1468 bytes
+2024/05/24-19:34:13.191 f5e6 Compacted 1@0 + 1@1 files => 1468 bytes
+2024/05/24-19:34:13.280 f5e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/24-19:34:13.280 f5e6 Delete type=2 #166
+2024/05/24-19:34:13.280 f5e6 Manual compaction at level-0 from '\x001\x00\x00\x05' @ 2070 : 1 .. '\x002\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/24-19:34:14.325 f5f7 Level-0 table #169: started
+2024/05/24-19:34:14.358 f5f7 Level-0 table #169: 2073 bytes OK
+2024/05/24-19:34:14.436 f5f7 Delete type=2 #163
+2024/05/24-19:34:14.436 f5f7 Delete type=0 #165
+2024/05/24-19:34:14.436 f5e6 Manual compaction at level-0 from '\x002\x00\x00\x00' @ 72057594037927935 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at '\x002\x00\x00\x05' @ 2113 : 1
+2024/05/24-19:34:14.436 f5e6 Compacting 1@0 + 1@1 files
+2024/05/24-19:34:14.469 f5e6 Generated table #170@0: 30 keys, 1466 bytes
+2024/05/24-19:34:14.469 f5e6 Compacted 1@0 + 1@1 files => 1466 bytes
+2024/05/24-19:34:14.547 f5e6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/24-19:34:14.547 f5e6 Delete type=2 #169
+2024/05/24-19:34:14.547 f5e6 Manual compaction at level-0 from '\x002\x00\x00\x05' @ 2113 : 1 .. '\x003\x00\x00\x00' @ 0 : 0; will stop at (end)

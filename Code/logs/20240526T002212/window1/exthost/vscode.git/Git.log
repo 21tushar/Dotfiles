@@ -1,0 +1,24 @@
+2024-05-26 00:22:18.997 [info] Log level: Info
+2024-05-26 00:22:18.997 [info] Validating found git in: "git"
+2024-05-26 00:22:19.000 [info] Using git "2.45.1" from "git"
+2024-05-26 00:22:19.000 [info] > git rev-parse --show-toplevel [8ms]
+2024-05-26 00:22:19.000 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 00:22:19.000 [info] > git rev-parse --show-toplevel [29ms]
+2024-05-26 00:22:19.000 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2024-05-26 00:22:19.000 [info] Open repository: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App
+2024-05-26 00:22:19.000 [info] > git rev-parse --show-toplevel [6ms]
+2024-05-26 00:22:19.000 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 00:22:19.000 [info] > git config --get commit.template [23ms]
+2024-05-26 00:22:19.000 [info] No remotes found in the git config file.
+2024-05-26 00:22:19.000 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [9ms]
+2024-05-26 00:22:19.054 [info] > git status -z -uall [71ms]
+2024-05-26 00:22:19.106 [info] No remotes found in the git config file.
+2024-05-26 00:22:19.108 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [2ms]
+2024-05-26 00:22:19.109 [info] > git config --get commit.template [21ms]
+2024-05-26 00:22:19.140 [info] > git status -z -uall [13ms]
+2024-05-26 00:22:20.537 [info] > git check-ignore -v -z --stdin [741ms]
+2024-05-26 00:22:20.648 [info] > git show --textconv :src/App.js [25ms]
+2024-05-26 00:22:20.648 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [17ms]
+2024-05-26 00:22:20.658 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [6ms]

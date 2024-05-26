@@ -1,0 +1,7 @@
+2024-05-22 19:17:45.650 [info] Started local extension host with pid 41328.
+2024-05-22 19:17:51.324 [info] [perf] Render performance baseline is 94ms
+2024-05-22 19:17:55.131 [info] Extension host (LocalProcess pid: 41328) is unresponsive.
+2024-05-22 19:17:55.783 [info] Extension host (LocalProcess pid: 41328) is responsive.
+2024-05-22 19:17:55.784 [info] UNRESPONSIVE extension host: received responsive event and cancelling profiling session
+2024-05-22 19:17:55.912 [info] UNRESPONSIVE extension host: starting to profile NOW
+2024-05-22 19:17:56.084 [warning] UNRESPONSIVE extension host: 'catppuccin.catppuccin-vsc' took 37.61132678693766% of 1.647ms, saved PROFILE here: 'file:///tmp/exthost-943fba.cpuprofile'

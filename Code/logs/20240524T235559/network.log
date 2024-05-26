@@ -1,0 +1,4 @@
+2024-05-24 23:56:02.475 [error] electron #1: https://update.code.visualstudio.com/api/update/linux-x64/stable/dc96b837cf6bb4af9cd736aa3af08cf8279f7685 - error undefined net::ERR_INTERNET_DISCONNECTED
+2024-05-24 23:56:02.486 [error] electron #2: https://az764295.vo.msecnd.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2024-05-24 23:56:04.357 [error] electron #3: https://update.code.visualstudio.com/api/update/linux-x64/stable/dc96b837cf6bb4af9cd736aa3af08cf8279f7685 - error undefined net::ERR_INTERNET_DISCONNECTED
+2024-05-24 23:56:30.083 [error] electron #4: https://update.code.visualstudio.com/api/update/linux-x64/stable/dc96b837cf6bb4af9cd736aa3af08cf8279f7685 - error undefined net::ERR_INTERNET_DISCONNECTED
