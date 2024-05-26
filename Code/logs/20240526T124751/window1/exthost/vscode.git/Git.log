@@ -1,0 +1,96 @@
+2024-05-26 12:47:54.485 [info] Log level: Info
+2024-05-26 12:47:54.485 [info] Validating found git in: "git"
+2024-05-26 12:47:54.485 [info] Using git "2.45.1" from "git"
+2024-05-26 12:47:54.485 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-26 12:47:54.485 [info] > git rev-parse --git-dir --git-common-dir [4ms]
+2024-05-26 12:47:54.485 [info] Open repository: /home/prasant/.local
+2024-05-26 12:47:54.485 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-26 12:47:54.485 [info] > git config --get commit.template [13ms]
+2024-05-26 12:47:54.765 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [268ms]
+2024-05-26 12:47:54.766 [info] > git rev-parse --show-toplevel [282ms]
+2024-05-26 12:47:54.962 [info] > git status -z -uall [8ms]
+2024-05-26 12:47:55.003 [info] > git merge-base refs/heads/main refs/remotes/origin/main [28ms]
+2024-05-26 12:47:55.055 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [40ms]
+2024-05-26 12:47:55.071 [info] > git config --get commit.template [69ms]
+2024-05-26 12:47:55.092 [info] > git diff --name-status -z --diff-filter=ADMR 1b6218ffcdb2640416438b794530f5fd4e32c434...refs/remotes/origin/main [24ms]
+2024-05-26 12:47:55.129 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:47:55.300 [info] > git status -z -uall [67ms]
+2024-05-26 12:47:55.300 [info] > git check-ignore -v -z --stdin [9ms]
+2024-05-26 12:48:07.043 [info] > git config --get commit.template [5ms]
+2024-05-26 12:48:07.044 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-26 12:48:07.055 [info] > git status -z -uall [7ms]
+2024-05-26 12:48:18.120 [info] > git config --get commit.template [6ms]
+2024-05-26 12:48:18.121 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:48:18.134 [info] > git status -z -uall [9ms]
+2024-05-26 12:48:44.705 [info] > git config --get commit.template [5ms]
+2024-05-26 12:48:44.705 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [1ms]
+2024-05-26 12:48:44.720 [info] > git status -z -uall [9ms]
+2024-05-26 12:48:50.676 [info] > git config --get commit.template [6ms]
+2024-05-26 12:48:50.677 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:48:50.690 [info] > git status -z -uall [9ms]
+2024-05-26 12:48:55.701 [info] > git config --get commit.template [2ms]
+2024-05-26 12:48:55.707 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:48:55.720 [info] > git status -z -uall [9ms]
+2024-05-26 12:49:12.916 [info] > git config --get commit.template [5ms]
+2024-05-26 12:49:12.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:49:12.930 [info] > git status -z -uall [9ms]
+2024-05-26 12:49:12.941 [info] > git merge-base refs/heads/main refs/remotes/origin/main [4ms]
+2024-05-26 12:49:12.948 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [2ms]
+2024-05-26 12:49:12.956 [info] > git diff --name-status -z --diff-filter=ADMR 1b6218ffcdb2640416438b794530f5fd4e32c434...refs/remotes/origin/main [2ms]
+2024-05-26 12:49:24.849 [info] > git config --get commit.template [4ms]
+2024-05-26 12:49:24.851 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:49:24.861 [info] > git status -z -uall [6ms]
+2024-05-26 12:49:29.879 [info] > git config --get commit.template [6ms]
+2024-05-26 12:49:29.880 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:49:29.891 [info] > git status -z -uall [6ms]
+2024-05-26 12:49:29.903 [info] > git merge-base refs/heads/main refs/remotes/origin/main [5ms]
+2024-05-26 12:49:29.911 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-05-26 12:49:29.919 [info] > git diff --name-status -z --diff-filter=ADMR 1b6218ffcdb2640416438b794530f5fd4e32c434...refs/remotes/origin/main [2ms]
+2024-05-26 12:49:34.911 [info] > git config --get commit.template [3ms]
+2024-05-26 12:49:34.917 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:49:34.928 [info] > git status -z -uall [6ms]
+2024-05-26 12:49:34.940 [info] > git merge-base refs/heads/main refs/remotes/origin/main [6ms]
+2024-05-26 12:49:34.948 [info] > git rev-list --count --left-right refs/heads/main...refs/remotes/origin/main [3ms]
+2024-05-26 12:49:34.956 [info] > git diff --name-status -z --diff-filter=ADMR cf0b1fd9230f054287ee6071176431a6908ba566...refs/remotes/origin/main [3ms]
+2024-05-26 12:49:39.949 [info] > git config --get commit.template [5ms]
+2024-05-26 12:49:39.950 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:49:39.960 [info] > git status -z -uall [5ms]
+2024-05-26 12:49:44.974 [info] > git config --get commit.template [5ms]
+2024-05-26 12:49:44.975 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:49:44.986 [info] > git status -z -uall [7ms]
+2024-05-26 12:50:20.099 [info] > git config --get commit.template [6ms]
+2024-05-26 12:50:20.100 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [2ms]
+2024-05-26 12:50:20.110 [info] > git status -z -uall [6ms]
+2024-05-26 12:50:36.000 [info] Log level: Info
+2024-05-26 12:50:36.000 [info] Validating found git in: "git"
+2024-05-26 12:50:36.000 [info] Using git "2.45.1" from "git"
+2024-05-26 12:50:36.000 [info] > git rev-parse --show-toplevel [54ms]
+2024-05-26 12:50:36.000 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 12:50:36.050 [info] > git rev-parse --show-toplevel [29ms]
+2024-05-26 12:50:36.086 [info] > git rev-parse --git-dir --git-common-dir [8ms]
+2024-05-26 12:50:36.148 [info] Open repository: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App
+2024-05-26 12:50:36.198 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-26 12:50:36.198 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 12:50:36.199 [info] > git config --get commit.template [14ms]
+2024-05-26 12:50:36.221 [info] No remotes found in the git config file.
+2024-05-26 12:50:36.222 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-26 12:50:36.222 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 12:50:36.233 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+2024-05-26 12:50:36.244 [info] > git rev-parse --show-toplevel [11ms]
+2024-05-26 12:50:36.244 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 12:50:36.248 [info] > git status -z -uall [6ms]
+2024-05-26 12:50:36.269 [info] > git config --get commit.template [3ms]
+2024-05-26 12:50:36.277 [info] No remotes found in the git config file.
+2024-05-26 12:50:36.278 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-05-26 12:50:36.289 [info] > git status -z -uall [5ms]
+2024-05-26 12:50:37.116 [info] > git check-ignore -v -z --stdin [278ms]
+2024-05-26 12:50:38.891 [info] > git rev-parse --show-toplevel [3ms]
+2024-05-26 12:50:38.891 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-26 12:50:39.036 [info] > git show --textconv :src/App.js [20ms]
+2024-05-26 12:50:39.036 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [1ms]
+2024-05-26 12:50:39.052 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [4ms]

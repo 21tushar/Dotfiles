@@ -10,3 +10,6 @@
     at d.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
 2024-05-26 12:03:19.400 [info] Settings Sync: Updating due to change in sessions
 2024-05-26 12:03:19.402 [info] Settings Sync: Updating due to change in sessions
+2024-05-26 12:33:16.794 [info] Started local extension host with pid 125751.
+2024-05-26 12:33:20.268 [info] [perf] Render performance baseline is 49ms
+2024-05-26 12:36:45.312 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

@@ -1,18 +1,6 @@
-2024/05/26-10:35:47.452 6 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2024/05/26-10:35:48.739 6 Recovering log #231
-2024/05/26-10:35:49.187 6 Reusing old log /home/prasant/.config/google-chrome/Default/Session Storage/000231.log 
-2024/05/26-11:39:06.301 6 Level-0 table #235: started
-2024/05/26-11:39:06.379 6 Level-0 table #235: 88750 bytes OK
-2024/05/26-11:39:06.481 6 Delete type=0 #231
-2024/05/26-11:41:20.896 6 Level-0 table #237: started
-2024/05/26-11:41:20.973 6 Level-0 table #237: 187154 bytes OK
-2024/05/26-11:41:21.052 6 Delete type=0 #234
-2024/05/26-11:41:21.052 6 Compacting 4@0 + 1@1 files
-2024/05/26-11:41:21.162 6 Generated table #238@0: 117 keys, 268056 bytes
-2024/05/26-11:41:21.162 6 Compacted 4@0 + 1@1 files => 268056 bytes
-2024/05/26-11:41:21.240 6 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/26-11:41:21.240 6 Delete type=2 #227
-2024/05/26-11:41:21.240 6 Delete type=2 #229
-2024/05/26-11:41:21.240 6 Delete type=2 #232
-2024/05/26-11:41:21.241 6 Delete type=2 #235
-2024/05/26-11:41:21.241 6 Delete type=2 #237
+2024/05/26-16:42:08.406 4 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/05/26-16:42:08.407 4 Recovering log #236
+2024/05/26-16:42:08.408 4 Reusing old log /home/prasant/.config/google-chrome/Default/Session Storage/000236.log 
+2024/05/26-17:24:18.369 6 Level-0 table #241: started
+2024/05/26-17:24:18.443 6 Level-0 table #241: 111874 bytes OK
+2024/05/26-17:24:18.555 6 Delete type=0 #236

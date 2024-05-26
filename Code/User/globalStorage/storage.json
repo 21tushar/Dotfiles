@@ -2,11 +2,12 @@
     "userDataProfilesMigration": true,
     "profileAssociations": {
         "workspaces": {
+            "file:///home/prasant/.local": "__default__profile__",
             "file:///home/prasant/Downloads/Downloads/React_Projects": "__default__profile__",
             "file:///home/prasant/.config": "__default__profile__"
         },
         "emptyWindows": {
-            "1716704260495": "__default__profile__"
+            "1716724561518": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -24,7 +25,7 @@
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1716704260495"
+                "backupFolder": "1716724561518"
             }
         ]
     },
@@ -66,7 +67,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.reopenClosedEditor",
-                                    "label": "&&Reopen Closed Editor"
+                                    "label": "&&Reopen Closed Editor",
+                                    "enabled": false
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -92,6 +94,17 @@
                                     },
                                     "enabled": true,
                                     "label": "~/Downloads/Downloads/React_Projects"
+                                },
+                                {
+                                    "id": "openRecentFolder",
+                                    "uri": {
+                                        "$mid": 1,
+                                        "external": "file:///home/prasant/.local",
+                                        "path": "/home/prasant/.local",
+                                        "scheme": "file"
+                                    },
+                                    "enabled": true,
+                                    "label": "~/.local"
                                 },
                                 {
                                     "id": "vscode.menubar.separator"
@@ -151,6 +164,13 @@
                         "label": "Share",
                         "submenu": {
                             "items": [
+                                {
+                                    "id": "github.copyVscodeDevLinkFile",
+                                    "label": "Copy vscode.dev Link"
+                                },
+                                {
+                                    "id": "vscode.menubar.separator"
+                                },
                                 {
                                     "id": "workbench.profiles.actions.exportProfile",
                                     "label": "Export Profile (Default)..."
@@ -467,7 +487,8 @@
                             "items": [
                                 {
                                     "id": "workbench.action.toggleFullScreen",
-                                    "label": "&&Full Screen"
+                                    "label": "&&Full Screen",
+                                    "checked": true
                                 },
                                 {
                                     "id": "workbench.action.toggleZenMode",
@@ -823,7 +844,8 @@
                     },
                     {
                         "id": "workbench.action.navigateToLastEditLocation",
-                        "label": "&&Last Edit Location"
+                        "label": "&&Last Edit Location",
+                        "enabled": false
                     },
                     {
                         "id": "vscode.menubar.separator"
@@ -1735,21 +1757,11 @@
             "statusBarBackground": "#11111b",
             "statusBarNoFolderBackground": "#11111b",
             "windowBorder": "rgba(0, 0, 0, 0)"
-        },
-        "layoutInfo": {
-            "sideBarSide": "left",
-            "editorPartMinWidth": 220,
-            "titleBarHeight": 0,
-            "activityBarWidth": 48,
-            "sideBarWidth": 231,
-            "statusBarHeight": 22,
-            "windowBorder": false
         }
     },
     "windowsState": {
         "lastActiveWindow": {
-            "folder": "file:///home/prasant/.config",
-            "backupPath": "/home/prasant/.config/Code/Backups/28c9443ae6aa9e2ed4190fd6d0fb1a5a",
+            "backupPath": "/home/prasant/.config/Code/Backups/1716724561518",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1758,6 +1770,28 @@
                 "height": 740
             }
         },
-        "openedWindows": []
+        "openedWindows": [
+            {
+                "folder": "file:///home/prasant/Downloads/Downloads/React_Projects",
+                "backupPath": "/home/prasant/.config/Code/Backups/94254d1e26f1c1b00498d792508090a0",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 1366,
+                    "height": 768
+                }
+            },
+            {
+                "backupPath": "/home/prasant/.config/Code/Backups/1716724561518",
+                "uiState": {
+                    "mode": 0,
+                    "x": 0,
+                    "y": 0,
+                    "width": 683,
+                    "height": 740
+                }
+            }
+        ]
     }
 }

@@ -1,7 +1,0 @@
-2024-05-21 20:25:10.607 [info] update#setState idle
-2024-05-21 20:25:40.609 [info] update#setState checking for updates
-2024-05-21 20:25:40.790 [info] update#setState idle
-2024-05-21 20:26:09.271 [error] CodeWindow: failed to load (reason: <unknown>, code: -3)
-2024-05-21 20:26:23.554 [info] Extension host with pid 202805 exited with code: 0, signal: unknown.
-2024-05-21 20:27:07.228 [info] Extension host with pid 204141 exited with code: 0, signal: unknown.
-2024-05-21 20:28:09.374 [info] Extension host with pid 204843 exited with code: 0, signal: unknown.
