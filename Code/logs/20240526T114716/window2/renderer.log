@@ -4,3 +4,9 @@
 2024-05-26 11:50:02.277 [info] [perf] Render performance baseline is 37ms
 2024-05-26 11:52:42.713 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
 2024-05-26 12:01:14.364 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted
+2024-05-26 12:03:06.178 [error] Cannot read properties of undefined (reading 'accessToken'): TypeError: Cannot read properties of undefined (reading 'accessToken')
+    at p.z (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21851)
+    at p.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:22484)
+    at d.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1686:21653)
+2024-05-26 12:03:19.400 [info] Settings Sync: Updating due to change in sessions
+2024-05-26 12:03:19.402 [info] Settings Sync: Updating due to change in sessions
