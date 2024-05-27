@@ -1,0 +1,47 @@
+2024-05-27 12:57:26.379 [info] Extension host with pid 117832 started
+2024-05-27 12:57:26.485 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-27 12:57:26.491 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-05-27 12:57:26.504 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-05-27 12:57:26.526 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-05-27 12:57:26.534 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-05-27 12:57:26.583 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-27 12:57:26.625 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-27 12:57:26.978 [info] Eager extensions activated
+2024-05-27 12:57:27.037 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.046 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.058 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.082 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.088 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.138 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.174 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.209 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:27.215 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:39.642 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-27 12:57:39.656 [info] Extension host with pid 117832 exiting with code 0
+2024-05-27 12:57:41.457 [info] Extension host with pid 118107 started
+2024-05-27 12:57:41.457 [info] Skipping acquiring lock for /home/prasant/.config/Code/User/workspaceStorage/2997c41fe530ba8adf3d1c8a16920833.
+2024-05-27 12:57:41.902 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2024-05-27 12:57:41.911 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2024-05-27 12:57:41.914 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2024-05-27 12:57:41.936 [info] ExtensionService#_doActivateExtension johnpapa.vscode-peacock, startup: true, activationEvent: '*'
+2024-05-27 12:57:41.945 [info] ExtensionService#_doActivateExtension oderwat.indent-rainbow, startup: true, activationEvent: '*'
+2024-05-27 12:57:41.976 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2024-05-27 12:57:42.011 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2024-05-27 12:57:42.607 [info] Eager extensions activated
+2024-05-27 12:57:42.668 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.676 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.698 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.726 [info] ExtensionService#_doActivateExtension Catppuccin.catppuccin-vsc, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.731 [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.796 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.861 [info] ExtensionService#_doActivateExtension kisstkondoros.vscode-gutter-preview, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:42.994 [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:43.021 [info] ExtensionService#_doActivateExtension PKief.material-icon-theme, startup: false, activationEvent: 'onStartupFinished'
+2024-05-27 12:57:43.291 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1141
+2024-05-27 12:57:43.917 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2024-05-27 12:57:44.643 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1144
+2024-05-27 12:57:47.546 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:57:52.813 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:57:58.075 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:58:03.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:58:08.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143

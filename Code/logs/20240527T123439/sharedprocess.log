@@ -1,0 +1,24 @@
+2024-05-27 12:35:26.354 [info] Getting Manifest... thang-nm.catppuccin-perfect-icons
+2024-05-27 12:35:26.387 [info] Installing extension: thang-nm.catppuccin-perfect-icons
+2024-05-27 12:35:30.276 [info] Extension signature verification result for thang-nm.catppuccin-perfect-icons: UnknownError. Duration: 246ms.
+2024-05-27 12:35:35.136 [info] Extracted extension to file:///home/prasant/.vscode/extensions/thang-nm.catppuccin-perfect-icons-0.21.32: thang-nm.catppuccin-perfect-icons
+2024-05-27 12:35:35.221 [info] Renamed to /home/prasant/.vscode/extensions/thang-nm.catppuccin-perfect-icons-0.21.32
+2024-05-27 12:35:35.223 [info] Extracting extension completed. thang-nm.catppuccin-perfect-icons
+2024-05-27 12:35:35.278 [info] Extension installed successfully: thang-nm.catppuccin-perfect-icons
+2024-05-27 12:35:35.310 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/prasant/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/prasant/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-27 12:35:51.656 [info] Uninstalling extension from the profile: thang-nm.catppuccin-perfect-icons@0.21.32 vscode-userdata:/home/prasant/.vscode/extensions/extensions.json
+2024-05-27 12:35:51.748 [info] Marked extension as uninstalled thang-nm.catppuccin-perfect-icons-0.21.32
+2024-05-27 12:35:51.767 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/prasant/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/prasant/.vscode/extensions/extensions.json.vsctmp'
+    at a.create (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30019)
+    at b (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:53:30130)
+    at t.hb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:36600)
+    at t.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:29040)
+    at async $.stat (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:58:16186)
+    at async J.sb (/opt/visual-studio-code/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:104:109501)
+2024-05-27 12:35:52.585 [info] Successfully uninstalled extension from the profile thang-nm.catppuccin-perfect-icons@0.21.32 vscode-userdata:/home/prasant/.vscode/extensions/extensions.json

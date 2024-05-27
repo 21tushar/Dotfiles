@@ -1,21 +1,18 @@
-2024/05/26-16:42:08.196 2489a Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/05/26-16:42:08.197 2489a Recovering log #226
-2024/05/26-16:42:08.199 2489a Reusing old log /home/prasant/.config/google-chrome/Default/Sync Data/LevelDB/000226.log 
-2024/05/26-16:45:20.968 2489d Level-0 table #230: started
-2024/05/26-16:45:21.108 2489d Level-0 table #230: 88019 bytes OK
-2024/05/26-16:45:21.308 2489d Delete type=0 #226
-2024/05/26-16:50:58.027 2489d Level-0 table #232: started
-2024/05/26-16:50:58.110 2489d Level-0 table #232: 78745 bytes OK
-2024/05/26-16:50:58.244 2489d Delete type=0 #229
-2024/05/26-17:08:41.424 2489b Level-0 table #234: started
-2024/05/26-17:08:41.536 2489b Level-0 table #234: 78642 bytes OK
-2024/05/26-17:08:41.592 2489b Delete type=0 #231
-2024/05/26-17:08:41.593 2489b Compacting 4@0 + 1@1 files
-2024/05/26-17:08:41.626 2489b Generated table #235@0: 141 keys, 18481 bytes
-2024/05/26-17:08:41.627 2489b Compacted 4@0 + 1@1 files => 18481 bytes
-2024/05/26-17:08:41.681 2489b compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/05/26-17:08:41.681 2489b Delete type=2 #225
-2024/05/26-17:08:41.681 2489b Delete type=2 #227
-2024/05/26-17:08:41.682 2489b Delete type=2 #230
-2024/05/26-17:08:41.682 2489b Delete type=2 #232
-2024/05/26-17:08:41.682 2489b Delete type=2 #234
+2024/05/27-11:05:55.932 2250 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/05/27-11:05:56.439 2250 Recovering log #259
+2024/05/27-11:05:57.241 2250 Reusing old log /home/prasant/.config/google-chrome/Default/Sync Data/LevelDB/000259.log 
+2024/05/27-11:34:01.923 224d Level-0 table #263: started
+2024/05/27-11:34:02.001 224d Level-0 table #263: 117775 bytes OK
+2024/05/27-11:34:02.068 224d Delete type=0 #259
+2024/05/27-12:09:17.889 224e Level-0 table #265: started
+2024/05/27-12:09:18.030 224e Level-0 table #265: 92185 bytes OK
+2024/05/27-12:09:18.296 224e Delete type=0 #262
+2024/05/27-12:09:18.297 224e Compacting 4@0 + 1@1 files
+2024/05/27-12:09:18.352 224e Generated table #266@0: 143 keys, 18999 bytes
+2024/05/27-12:09:18.352 224e Compacted 4@0 + 1@1 files => 18999 bytes
+2024/05/27-12:09:18.440 224e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/27-12:09:18.441 224e Delete type=2 #255
+2024/05/27-12:09:18.441 224e Delete type=2 #257
+2024/05/27-12:09:18.441 224e Delete type=2 #260
+2024/05/27-12:09:18.441 224e Delete type=2 #263
+2024/05/27-12:09:18.441 224e Delete type=2 #265

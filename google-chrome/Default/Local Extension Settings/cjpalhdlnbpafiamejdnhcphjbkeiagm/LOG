@@ -1,24 +1,9 @@
-2024/05/26-16:42:09.332 2489a Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/05/26-16:42:09.333 2489a Recovering log #151
-2024/05/26-16:42:09.347 2489a Reusing old log /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000151.log 
-2024/05/26-16:43:45.454 2489d Level-0 table #155: started
-2024/05/26-16:43:45.627 2489d Level-0 table #155: 5442422 bytes OK
-2024/05/26-16:43:45.816 2489d Delete type=0 #151
-2024/05/26-16:43:45.817 2489d Compacting 4@0 + 4@1 files
-2024/05/26-16:43:45.937 2489d Generated table #156@0: 4 keys, 2465224 bytes
-2024/05/26-16:43:46.170 2489d Generated table #157@0: 6 keys, 2534750 bytes
-2024/05/26-16:43:46.370 2489d Generated table #158@0: 2 keys, 2188853 bytes
-2024/05/26-16:43:46.536 2489d Generated table #159@0: 10 keys, 997669 bytes
-2024/05/26-16:43:46.537 2489d Compacted 4@0 + 4@1 files => 8186496 bytes
-2024/05/26-16:43:46.692 2489d compacted to: files[ 0 4 5 0 0 0 0 ]
-2024/05/26-16:43:46.693 2489d Delete type=2 #139
-2024/05/26-16:43:46.693 2489d Delete type=2 #140
-2024/05/26-16:43:46.693 2489d Delete type=2 #141
-2024/05/26-16:43:46.693 2489d Delete type=2 #143
-2024/05/26-16:43:46.693 2489d Delete type=2 #147
-2024/05/26-16:43:46.693 2489d Delete type=2 #150
-2024/05/26-16:43:46.693 2489d Delete type=2 #152
-2024/05/26-16:43:46.693 2489d Delete type=2 #155
-2024/05/26-16:43:49.229 2489d Level-0 table #161: started
-2024/05/26-16:43:49.382 2489d Level-0 table #161: 4275067 bytes OK
-2024/05/26-16:43:49.527 2489d Delete type=0 #154
+2024/05/27-11:06:09.199 2250 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/05/27-11:06:10.897 2250 Recovering log #174
+2024/05/27-11:06:11.139 2250 Reusing old log /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000174.log 
+2024/05/27-11:06:35.940 225f Level-0 table #178: started
+2024/05/27-11:06:36.126 225f Level-0 table #178: 5691261 bytes OK
+2024/05/27-11:06:36.295 225f Delete type=0 #174
+2024/05/27-11:07:32.830 2250 Level-0 table #180: started
+2024/05/27-11:07:32.975 2250 Level-0 table #180: 5694502 bytes OK
+2024/05/27-11:07:33.064 2250 Delete type=0 #177

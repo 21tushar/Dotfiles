@@ -1,6 +1,3 @@
-2024/05/22-19:25:30.719 14ba Creating DB /home/prasant/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb since it was missing.
-2024/05/22-19:25:30.937 14ba Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/22-19:29:07.981 14bb Level-0 table #5: started
-2024/05/22-19:29:08.013 14bb Level-0 table #5: 70911 bytes OK
-2024/05/22-19:29:08.080 14bb Delete type=0 #3
-2024/05/22-19:29:08.080 14bb Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/05/22-19:34:24.715 14bb Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/22-19:34:24.715 14bb Recovering log #4
+2024/05/22-19:34:24.715 14bb Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_forum.manjaro.org_0.indexeddb.leveldb/000004.log 

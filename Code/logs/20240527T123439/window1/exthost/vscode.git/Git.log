@@ -1,0 +1,48 @@
+2024-05-27 12:34:45.811 [info] Log level: Info
+2024-05-27 12:34:45.811 [info] Validating found git in: "git"
+2024-05-27 12:34:45.811 [info] Using git "2.45.1" from "git"
+2024-05-27 12:34:45.811 [info] > git rev-parse --show-toplevel [10ms]
+2024-05-27 12:34:45.811 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:34:45.811 [info] > git rev-parse --show-toplevel [16ms]
+2024-05-27 12:34:45.811 [info] > git rev-parse --git-dir --git-common-dir [10ms]
+2024-05-27 12:34:45.813 [info] Open repository: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App
+2024-05-27 12:34:45.814 [info] > git rev-parse --show-toplevel [50ms]
+2024-05-27 12:34:45.814 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:34:45.816 [info] > git config --get commit.template [58ms]
+2024-05-27 12:34:45.853 [info] No remotes found in the git config file.
+2024-05-27 12:34:45.857 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-05-27 12:34:47.170 [info] > git status -z -uall [1297ms]
+2024-05-27 12:34:47.366 [info] > git check-ignore -v -z --stdin [209ms]
+2024-05-27 12:34:47.369 [info] > git config --get commit.template [26ms]
+2024-05-27 12:34:47.422 [info] No remotes found in the git config file.
+2024-05-27 12:34:47.423 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-05-27 12:34:47.451 [info] > git status -z -uall [8ms]
+2024-05-27 12:34:47.566 [info] > git show --textconv :src/App.js [38ms]
+2024-05-27 12:34:47.567 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [18ms]
+2024-05-27 12:34:47.604 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [21ms]
+2024-05-27 12:35:37.715 [info] > git rev-parse --show-toplevel [9ms]
+2024-05-27 12:35:37.715 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:35:42.799 [info] > git rev-parse --show-toplevel [7ms]
+2024-05-27 12:35:42.799 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:35:47.064 [info] > git rev-parse --show-toplevel [1ms]
+2024-05-27 12:35:47.064 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:35:52.903 [info] > git rev-parse --show-toplevel [5ms]
+2024-05-27 12:35:52.903 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:36:01.342 [info] > git rev-parse --show-toplevel [4ms]
+2024-05-27 12:36:01.342 [info] fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2024-05-27 12:36:07.625 [info] > git show --textconv :src/App.js [5ms]
+2024-05-27 12:36:07.627 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [3ms]
+2024-05-27 12:36:07.633 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [2ms]
+2024-05-27 12:38:32.085 [info] > git show --textconv :src/App.js [4ms]
+2024-05-27 12:38:32.087 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [2ms]
+2024-05-27 12:38:32.094 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [3ms]
+2024-05-27 12:56:06.181 [info] > git show --textconv :src/App.js [5ms]
+2024-05-27 12:56:06.182 [info] > git ls-files --stage -- /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/src/App.js [1ms]
+2024-05-27 12:56:06.187 [info] > git cat-file -s d650e55cf60fa3a86bd937eaeeeb64f1ba940a3b [1ms]

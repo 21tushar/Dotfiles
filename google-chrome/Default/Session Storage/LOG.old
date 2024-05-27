@@ -1,18 +1,24 @@
-2024/05/26-10:35:47.452 6 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2024/05/26-10:35:48.739 6 Recovering log #231
-2024/05/26-10:35:49.187 6 Reusing old log /home/prasant/.config/google-chrome/Default/Session Storage/000231.log 
-2024/05/26-11:39:06.301 6 Level-0 table #235: started
-2024/05/26-11:39:06.379 6 Level-0 table #235: 88750 bytes OK
-2024/05/26-11:39:06.481 6 Delete type=0 #231
-2024/05/26-11:41:20.896 6 Level-0 table #237: started
-2024/05/26-11:41:20.973 6 Level-0 table #237: 187154 bytes OK
-2024/05/26-11:41:21.052 6 Delete type=0 #234
-2024/05/26-11:41:21.052 6 Compacting 4@0 + 1@1 files
-2024/05/26-11:41:21.162 6 Generated table #238@0: 117 keys, 268056 bytes
-2024/05/26-11:41:21.162 6 Compacted 4@0 + 1@1 files => 268056 bytes
-2024/05/26-11:41:21.240 6 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/05/26-11:41:21.240 6 Delete type=2 #227
-2024/05/26-11:41:21.240 6 Delete type=2 #229
-2024/05/26-11:41:21.240 6 Delete type=2 #232
-2024/05/26-11:41:21.241 6 Delete type=2 #235
-2024/05/26-11:41:21.241 6 Delete type=2 #237
+2024/05/27-00:18:21.670 4 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2024/05/27-00:18:21.673 4 Recovering log #247
+2024/05/27-00:18:21.675 4 Reusing old log /home/prasant/.config/google-chrome/Default/Session Storage/000247.log 
+2024/05/27-00:32:33.379 4 Level-0 table #252: started
+2024/05/27-00:32:33.434 4 Level-0 table #252: 158389 bytes OK
+2024/05/27-00:32:33.512 4 Delete type=0 #247
+2024/05/27-00:35:40.985 4 Level-0 table #254: started
+2024/05/27-00:35:41.060 4 Level-0 table #254: 72737 bytes OK
+2024/05/27-00:35:41.127 4 Delete type=0 #251
+2024/05/27-00:41:43.669 6 Level-0 table #256: started
+2024/05/27-00:41:43.735 6 Level-0 table #256: 97418 bytes OK
+2024/05/27-00:41:43.791 6 Delete type=0 #253
+2024/05/27-00:45:03.845 4 Level-0 table #258: started
+2024/05/27-00:45:03.961 4 Level-0 table #258: 49424 bytes OK
+2024/05/27-00:45:04.139 4 Delete type=0 #255
+2024/05/27-00:45:04.140 4 Compacting 4@0 + 1@1 files
+2024/05/27-00:45:04.239 4 Generated table #259@0: 108 keys, 368288 bytes
+2024/05/27-00:45:04.239 4 Compacted 4@0 + 1@1 files => 368288 bytes
+2024/05/27-00:45:04.316 4 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/05/27-00:45:04.317 4 Delete type=2 #249
+2024/05/27-00:45:04.317 4 Delete type=2 #252
+2024/05/27-00:45:04.317 4 Delete type=2 #254
+2024/05/27-00:45:04.317 4 Delete type=2 #256
+2024/05/27-00:45:04.317 4 Delete type=2 #258

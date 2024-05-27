@@ -1,24 +1,23 @@
-2024/05/26-16:42:44.573 248ad Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/26-16:42:44.573 248ad Recovering log #158
-2024/05/26-16:42:44.586 248ad Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000158.log 
-2024/05/26-17:05:57.039 2489b Level-0 table #163: started
-2024/05/26-17:05:57.164 2489b Level-0 table #163: 1299643 bytes OK
-2024/05/26-17:05:57.288 2489b Delete type=0 #158
-2024/05/26-17:07:19.414 2489a Compacting 1@1 + 1@2 files
-2024/05/26-17:07:19.472 2489a Generated table #164@1: 429 keys, 50852 bytes
-2024/05/26-17:07:19.472 2489a Compacted 1@1 + 1@2 files => 50852 bytes
-2024/05/26-17:07:19.605 2489a compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/26-17:07:19.606 2489a Delete type=2 #160
-2024/05/26-17:07:19.606 2489a Delete type=2 #163
-2024/05/26-17:25:34.591 2489a Level-0 table #166: started
-2024/05/26-17:25:34.725 2489a Level-0 table #166: 1317347 bytes OK
-2024/05/26-17:25:34.814 2489a Delete type=0 #162
-2024/05/26-17:25:34.815 2489a Manual compaction at level-0 from (begin) .. (end); will stop at (end)
-2024/05/26-17:25:34.815 2489a Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x07\x02\x1f\x03\x00\x10\x08\x0aL\xfbxB\x00\x03\x00\x00\x00\x00\x00\xc0c@' @ 112447 : 1
-2024/05/26-17:25:34.815 2489a Compacting 1@1 + 1@2 files
-2024/05/26-17:25:34.858 2489a Generated table #167@1: 438 keys, 61628 bytes
-2024/05/26-17:25:34.858 2489a Compacted 1@1 + 1@2 files => 61628 bytes
-2024/05/26-17:25:34.936 2489a compacted to: files[ 0 0 1 0 0 0 0 ]
-2024/05/26-17:25:34.936 2489a Delete type=2 #164
-2024/05/26-17:25:34.936 2489a Delete type=2 #166
-2024/05/26-17:25:34.936 2489a Manual compaction at level-1 from '\x00\x07\x02\x1f\x03\x00\x10\x08\x0aL\xfbxB\x00\x03\x00\x00\x00\x00\x00\xc0c@' @ 112447 : 1 .. (end); will stop at (end)
+2024/05/27-11:06:29.399 2278 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/27-11:06:29.523 2278 Recovering log #185
+2024/05/27-11:06:29.871 2278 Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000185.log 
+2024/05/27-11:06:29.871 2278 Delete type=2 #184
+2024/05/27-11:06:29.871 2278 Delete type=2 #186
+2024/05/27-11:11:51.876 224e Level-0 table #191: started
+2024/05/27-11:11:51.973 224e Level-0 table #191: 1542553 bytes OK
+2024/05/27-11:11:52.030 224e Delete type=0 #185
+2024/05/27-11:25:05.094 224e Compacting 1@1 + 1@2 files
+2024/05/27-11:25:05.162 224e Generated table #192@1: 489 keys, 38595 bytes
+2024/05/27-11:25:05.163 224e Compacted 1@1 + 1@2 files => 38595 bytes
+2024/05/27-11:25:05.207 224e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/27-11:25:05.207 224e Delete type=2 #188
+2024/05/27-11:25:05.207 224e Delete type=2 #191
+2024/05/27-11:27:42.041 225f Level-0 table #194: started
+2024/05/27-11:27:42.223 225f Level-0 table #194: 1266148 bytes OK
+2024/05/27-11:27:42.312 225f Delete type=0 #190
+2024/05/27-11:29:57.194 224e Compacting 1@1 + 1@2 files
+2024/05/27-11:29:57.282 224e Generated table #195@1: 506 keys, 54471 bytes
+2024/05/27-11:29:57.282 224e Compacted 1@1 + 1@2 files => 54471 bytes
+2024/05/27-11:29:57.371 224e compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/27-11:29:57.371 224e Delete type=2 #192
+2024/05/27-11:29:57.371 224e Delete type=2 #194
