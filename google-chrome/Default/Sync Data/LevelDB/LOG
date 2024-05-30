@@ -1,6 +1,0 @@
-2024/05/30-10:06:42.742 1188 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
-2024/05/30-10:06:44.038 1188 Recovering log #350
-2024/05/30-10:06:44.991 1188 Reusing old log /home/prasant/.config/google-chrome/Default/Sync Data/LevelDB/000350.log 
-2024/05/30-10:14:50.060 1199 Level-0 table #354: started
-2024/05/30-10:14:50.220 1199 Level-0 table #354: 119757 bytes OK
-2024/05/30-10:14:50.454 1199 Delete type=0 #350

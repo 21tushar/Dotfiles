@@ -1,6 +1,0 @@
-2024/05/23-19:56:37.083 3324 Creating DB /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb since it was missing.
-2024/05/23-19:56:37.172 3324 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.naukri.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/23-19:57:18.351 3324 Level-0 table #5: started
-2024/05/23-19:57:18.395 3324 Level-0 table #5: 38825 bytes OK
-2024/05/23-19:57:18.451 3324 Delete type=0 #3
-2024/05/23-19:57:18.451 3324 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
