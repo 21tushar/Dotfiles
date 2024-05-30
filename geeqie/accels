@@ -262,6 +262,7 @@
 ; (gtk_accel_path "<Actions>/MenuActions/ConnectZoomIn" "plus")
 ; (gtk_accel_path "<Actions>/MenuActions/CopyPathUnquoted" "")
 ; (gtk_accel_path "<Actions>/MenuActions/Mark5" "")
+; (gtk_accel_path "<Actions>/MenuActionsExternal/org.upscayl.Upscayl.desktop" "")
 ; (gtk_accel_path "<Actions>/MenuActions/UnselMark3" "")
 ; (gtk_accel_path "<Actions>/MenuActions/ToggleMark0" "0")
 ; (gtk_accel_path "<Actions>/MenuActions/FileDirMenu" "")

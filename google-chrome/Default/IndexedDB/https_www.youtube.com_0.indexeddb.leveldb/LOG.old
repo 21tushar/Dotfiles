@@ -1,7 +1,51 @@
-2024/05/27-00:48:36.005 25796 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/05/27-00:48:36.006 25796 Recovering log #185
-2024/05/27-00:48:36.006 25796 Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000185.log 
-2024/05/27-00:48:38.508 25796 Compacting 1@1 + 1@2 files
-2024/05/27-00:48:38.624 25796 Generated table #188@1: 492 keys, 77406 bytes
-2024/05/27-00:48:38.624 25796 Compacted 1@1 + 1@2 files => 77406 bytes
-2024/05/27-00:48:38.765 25796 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-23:09:12.459 16ff Reusing MANIFEST /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/29-23:09:12.460 16ff Recovering log #251
+2024/05/29-23:09:12.475 16ff Reusing old log /home/prasant/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000251.log 
+2024/05/29-23:09:30.150 16ef Level-0 table #256: started
+2024/05/29-23:09:30.651 16ef Level-0 table #256: 1545895 bytes OK
+2024/05/29-23:09:30.830 16ef Delete type=0 #251
+2024/05/29-23:10:28.274 16ef Compacting 1@1 + 1@2 files
+2024/05/29-23:10:28.328 16ef Generated table #257@1: 507 keys, 63585 bytes
+2024/05/29-23:10:28.328 16ef Compacted 1@1 + 1@2 files => 63585 bytes
+2024/05/29-23:10:28.406 16ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-23:10:28.406 16ef Delete type=2 #253
+2024/05/29-23:10:28.406 16ef Delete type=2 #256
+2024/05/29-23:11:46.020 16ef Level-0 table #259: started
+2024/05/29-23:11:46.084 16ef Level-0 table #259: 1238064 bytes OK
+2024/05/29-23:11:46.152 16ef Delete type=0 #255
+2024/05/29-23:12:55.504 16ee Compacting 1@1 + 1@2 files
+2024/05/29-23:12:55.551 16ee Generated table #260@1: 523 keys, 47352 bytes
+2024/05/29-23:12:55.551 16ee Compacted 1@1 + 1@2 files => 47352 bytes
+2024/05/29-23:12:55.629 16ee compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-23:12:55.629 16ee Delete type=2 #257
+2024/05/29-23:12:55.629 16ee Delete type=2 #259
+2024/05/29-23:15:39.836 16ef Level-0 table #262: started
+2024/05/29-23:15:39.898 16ef Level-0 table #262: 962506 bytes OK
+2024/05/29-23:15:39.976 16ef Delete type=0 #258
+2024/05/29-23:15:56.537 16ef Compacting 1@1 + 1@2 files
+2024/05/29-23:15:56.587 16ef Generated table #263@1: 547 keys, 48935 bytes
+2024/05/29-23:15:56.587 16ef Compacted 1@1 + 1@2 files => 48935 bytes
+2024/05/29-23:15:56.642 16ef compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-23:15:56.643 16ef Delete type=2 #260
+2024/05/29-23:15:56.643 16ef Delete type=2 #262
+2024/05/29-23:26:24.574 1711 Level-0 table #265: started
+2024/05/29-23:26:24.659 1711 Level-0 table #265: 1232573 bytes OK
+2024/05/29-23:26:24.839 1711 Delete type=0 #261
+2024/05/29-23:26:27.985 16ee Compacting 1@1 + 1@2 files
+2024/05/29-23:26:28.037 16ee Generated table #266@1: 530 keys, 54558 bytes
+2024/05/29-23:26:28.037 16ee Compacted 1@1 + 1@2 files => 54558 bytes
+2024/05/29-23:26:28.092 16ee compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-23:26:28.092 16ee Delete type=2 #263
+2024/05/29-23:26:28.092 16ee Delete type=2 #265
+2024/05/29-23:33:36.065 16ef Level-0 table #268: started
+2024/05/29-23:33:36.128 16ef Level-0 table #268: 1814448 bytes OK
+2024/05/29-23:33:36.208 16ef Delete type=0 #264
+2024/05/29-23:33:44.413 16ff Compacting 1@1 + 1@2 files
+2024/05/29-23:33:44.462 16ff Generated table #269@1: 553 keys, 42334 bytes
+2024/05/29-23:33:44.462 16ff Compacted 1@1 + 1@2 files => 42334 bytes
+2024/05/29-23:33:44.529 16ff compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/05/29-23:33:44.529 16ff Delete type=2 #266
+2024/05/29-23:33:44.529 16ff Delete type=2 #268
+2024/05/29-23:35:44.509 16ef Level-0 table #271: started
+2024/05/29-23:35:44.588 16ef Level-0 table #271: 1023805 bytes OK
+2024/05/29-23:35:44.656 16ef Delete type=0 #267

@@ -313,10 +313,10 @@
         home_path = "" 
         startup_path = "0" 
 
-        main_window.x = "10" 
-        main_window.y = "10" 
-        main_window.w = "668" 
-        main_window.h = "720" 
+        main_window.x = "273" 
+        main_window.y = "153" 
+        main_window.w = "819" 
+        main_window.h = "460" 
         main_window.maximized = "false" 
         main_window.hdivider_pos = "552" 
         main_window.vdivider_pos = "201" 
@@ -370,7 +370,7 @@
         advanced_exif_window.w = "900" 
         advanced_exif_window.h = "600" 
 
-        animate = "true" >
+        animate = "false" >
 
 
         <toolbar>

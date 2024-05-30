@@ -45,3 +45,81 @@
 2024-05-27 12:57:58.075 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
 2024-05-27 12:58:03.323 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
 2024-05-27 12:58:08.581 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:58:13.880 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:58:23.762 [warning] [Decorations] CAPPING events from decorations provider vscode.git 1143
+2024-05-27 12:58:30.173 [warning] [Decorations] CAPPING events from decorations provider vscode.git 964
+2024-05-27 12:58:36.645 [warning] [Decorations] CAPPING events from decorations provider vscode.git 964
+2024-05-27 12:58:43.072 [warning] [Decorations] CAPPING events from decorations provider vscode.git 964
+2024-05-27 12:58:48.155 [warning] [Decorations] CAPPING events from decorations provider vscode.git 964
+2024-05-27 13:05:14.386 [info] Extension host terminating: renderer closed the MessagePort
+2024-05-27 13:05:14.431 [error] Canceled: Canceled
+    at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.O [as value] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:945138)
+    at o.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:964222)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-27 13:05:14.438 [error] Canceled: Canceled
+    at new O (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:143:47131)
+    at c.U (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:5542)
+    at Proxy.F.<computed>.z.charCodeAt.F.<computed> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:150:2993)
+    at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188926)
+    at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at k.registerCommand.description (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:187688)
+    at r.h (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:189465)
+    at r.g (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188457)
+    at r.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:153:188364)
+    at Object.executeCommand (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:22673)
+    at a.VscodeDevShareProvider.set hasGitHubRepositories [as hasGitHubRepositories] (/opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:322969)
+    at /opt/visual-studio-code/resources/app/extensions/github/dist/extension.js:2:323928
+    at a.value (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:1050711)
+    at o.y (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:660)
+    at o.z (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:730)
+    at o.fire (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:82:946)
+    at Object.p [as dispose] (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:964222)
+    at /opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:970260
+    at Array.forEach (<anonymous>)
+    at f.dispose (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:970246)
+    at h.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:3955)
+    at h.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at h.<anonymous> (/opt/visual-studio-code/resources/app/extensions/git/dist/main.js:2:947395)
+    at h.dispose (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:151:4052)
+    at a (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:30:744)
+    at f.eb (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:9975)
+    at /opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7824
+    at Array.map (<anonymous>)
+    at f.$ (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:7811)
+    at f.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:159:8085)
+    at a.terminate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:163:1513)
+    at t (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:9922)
+    at MessagePortMain.<anonymous> (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:176:6347)
+    at MessagePortMain.emit (node:events:517:28)
+    at Object.MessagePortMain._internalPort.emit (node:electron/js2c/utility_init:2:2285) setContext undefined
+2024-05-27 13:05:14.438 [info] Extension host with pid 118107 exiting with code 0

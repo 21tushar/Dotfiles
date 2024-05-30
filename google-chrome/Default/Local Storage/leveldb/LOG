@@ -1,21 +1,21 @@
-2024/05/27-11:06:01.933 4 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/05/27-11:06:02.904 4 Recovering log #415
-2024/05/27-11:06:03.153 4 Reusing old log /home/prasant/.config/google-chrome/Default/Local Storage/leveldb/000415.log 
-2024/05/27-11:11:26.975 4 Level-0 table #419: started
-2024/05/27-11:11:27.053 4 Level-0 table #419: 28771 bytes OK
-2024/05/27-11:11:27.131 4 Delete type=0 #415
-2024/05/27-11:11:27.132 4 Compacting 4@0 + 1@1 files
-2024/05/27-11:11:27.242 4 Generated table #420@0: 3736 keys, 1112419 bytes
-2024/05/27-11:11:27.242 4 Compacted 4@0 + 1@1 files => 1112419 bytes
-2024/05/27-11:11:27.308 4 compacted to: files[ 0 1 1 0 0 0 0 ]
-2024/05/27-11:11:27.309 4 Delete type=2 #409
-2024/05/27-11:11:27.309 4 Delete type=2 #411
-2024/05/27-11:11:27.309 4 Delete type=2 #414
-2024/05/27-11:11:27.309 4 Delete type=2 #416
-2024/05/27-11:11:27.309 4 Delete type=2 #419
-2024/05/27-11:43:12.713 4 Level-0 table #422: started
-2024/05/27-11:43:12.787 4 Level-0 table #422: 22389 bytes OK
-2024/05/27-11:43:12.921 4 Delete type=0 #418
-2024/05/27-12:31:32.698 6 Level-0 table #424: started
-2024/05/27-12:31:32.766 6 Level-0 table #424: 21220 bytes OK
-2024/05/27-12:31:32.831 6 Delete type=0 #421
+2024/05/30-10:06:44.502 4 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
+2024/05/30-10:06:46.764 4 Recovering log #580
+2024/05/30-10:06:47.042 4 Reusing old log /home/prasant/.config/google-chrome/Default/Local Storage/leveldb/000580.log 
+2024/05/30-10:16:55.014 6 Level-0 table #584: started
+2024/05/30-10:16:55.057 6 Level-0 table #584: 29423 bytes OK
+2024/05/30-10:16:55.102 6 Delete type=0 #580
+2024/05/30-10:16:55.103 6 Compacting 4@0 + 1@1 files
+2024/05/30-10:16:55.191 6 Generated table #585@0: 4614 keys, 1582550 bytes
+2024/05/30-10:16:55.191 6 Compacted 4@0 + 1@1 files => 1582550 bytes
+2024/05/30-10:16:55.234 6 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/05/30-10:16:55.235 6 Delete type=2 #575
+2024/05/30-10:16:55.236 6 Delete type=2 #577
+2024/05/30-10:16:55.236 6 Delete type=2 #579
+2024/05/30-10:16:55.236 6 Delete type=2 #581
+2024/05/30-10:16:55.236 6 Delete type=2 #584
+2024/05/30-10:28:12.724 6 Level-0 table #587: started
+2024/05/30-10:28:12.779 6 Level-0 table #587: 19435 bytes OK
+2024/05/30-10:28:12.846 6 Delete type=0 #583
+2024/05/30-10:28:24.985 6 Level-0 table #589: started
+2024/05/30-10:28:25.020 6 Level-0 table #589: 25602 bytes OK
+2024/05/30-10:28:25.165 6 Delete type=0 #586

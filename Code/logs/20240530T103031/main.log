@@ -1,0 +1,6 @@
+2024-05-30 10:30:31.202 [info] update#setState idle
+2024-05-30 10:31:01.204 [info] update#setState checking for updates
+2024-05-30 10:31:01.336 [info] update#setState idle
+2024-05-30 10:32:01.475 [info] Extension host with pid 27057 exited with code: 0, signal: unknown.
+2024-05-30 10:32:09.818 [info] Extension host with pid 28706 exited with code: 0, signal: unknown.
+2024-05-30 10:32:10.749 [info] Extension host with pid 26704 exited with code: 0, signal: unknown.

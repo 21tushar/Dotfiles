@@ -1,9 +1,23 @@
-2024/05/27-11:06:09.199 2250 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
-2024/05/27-11:06:10.897 2250 Recovering log #174
-2024/05/27-11:06:11.139 2250 Reusing old log /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000174.log 
-2024/05/27-11:06:35.940 225f Level-0 table #178: started
-2024/05/27-11:06:36.126 225f Level-0 table #178: 5691261 bytes OK
-2024/05/27-11:06:36.295 225f Delete type=0 #174
-2024/05/27-11:07:32.830 2250 Level-0 table #180: started
-2024/05/27-11:07:32.975 2250 Level-0 table #180: 5694502 bytes OK
-2024/05/27-11:07:33.064 2250 Delete type=0 #177
+2024/05/30-10:06:57.198 1187 Reusing MANIFEST /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/MANIFEST-000001
+2024/05/30-10:07:00.238 1187 Recovering log #238
+2024/05/30-10:07:00.457 1187 Reusing old log /home/prasant/.config/google-chrome/Default/Local Extension Settings/cjpalhdlnbpafiamejdnhcphjbkeiagm/000238.log 
+2024/05/30-10:07:22.939 11b7 Level-0 table #242: started
+2024/05/30-10:07:23.468 11b7 Level-0 table #242: 4963854 bytes OK
+2024/05/30-10:07:23.659 11b7 Delete type=0 #238
+2024/05/30-10:07:23.660 11b7 Compacting 4@0 + 4@1 files
+2024/05/30-10:07:23.872 11b7 Generated table #243@0: 4 keys, 2464514 bytes
+2024/05/30-10:07:24.424 11b7 Generated table #244@0: 5 keys, 2426999 bytes
+2024/05/30-10:07:24.646 11b7 Generated table #245@0: 12 keys, 1793618 bytes
+2024/05/30-10:07:24.646 11b7 Compacted 4@0 + 4@1 files => 6685131 bytes
+2024/05/30-10:07:24.891 11b7 compacted to: files[ 0 3 5 0 0 0 0 ]
+2024/05/30-10:07:24.891 11b7 Delete type=2 #225
+2024/05/30-10:07:24.891 11b7 Delete type=2 #227
+2024/05/30-10:07:24.891 11b7 Delete type=2 #228
+2024/05/30-10:07:24.891 11b7 Delete type=2 #229
+2024/05/30-10:07:24.892 11b7 Delete type=2 #233
+2024/05/30-10:07:24.892 11b7 Delete type=2 #236
+2024/05/30-10:07:24.892 11b7 Delete type=2 #239
+2024/05/30-10:07:24.892 11b7 Delete type=2 #242
+2024/05/30-10:08:24.599 1188 Level-0 table #247: started
+2024/05/30-10:08:24.783 1188 Level-0 table #247: 7225376 bytes OK
+2024/05/30-10:08:24.839 1188 Delete type=0 #241

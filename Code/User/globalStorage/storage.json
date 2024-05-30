@@ -7,7 +7,7 @@
             "file:///home/prasant/.config": "__default__profile__"
         },
         "emptyWindows": {
-            "1716794845614": "__default__profile__"
+            "1717045347904": "__default__profile__"
         }
     },
     "profileAssociationsMigration": true,
@@ -25,7 +25,7 @@
         ],
         "emptyWindows": [
             {
-                "backupFolder": "1716794845614"
+                "backupFolder": "1717045347904"
             }
         ]
     },
@@ -1761,7 +1761,7 @@
     },
     "windowsState": {
         "lastActiveWindow": {
-            "backupPath": "/home/prasant/.config/Code/Backups/1716794845614",
+            "backupPath": "/home/prasant/.config/Code/Backups/1717045347904",
             "uiState": {
                 "mode": 0,
                 "x": 0,
@@ -1783,7 +1783,7 @@
                 }
             },
             {
-                "backupPath": "/home/prasant/.config/Code/Backups/1716794845614",
+                "backupPath": "/home/prasant/.config/Code/Backups/1717045347904",
                 "uiState": {
                     "mode": 0,
                     "x": 0,
