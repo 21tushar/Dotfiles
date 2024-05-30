@@ -1,3 +1,0 @@
-2024-05-19 17:10:30.818 [info] Initial editor state {"filesToOpenOrCreate":[{"fileUri":{"$mid":1,"path":"/home/prasant/--ozone-platform-hint=wayland","scheme":"file"},"type":1,"exists":false},{"fileUri":{"$mid":1,"path":"/home/prasant/--disable-gpu","scheme":"file"},"type":1,"exists":false}],"filesToDiff":[],"filesToMerge":[]}
-2024-05-19 17:10:31.359 [info] Started local extension host with pid 126176.
-2024-05-19 17:10:35.241 [info] [perf] Render performance baseline is 74ms
