@@ -1,7 +1,0 @@
-[Global] Creating projects: [{"folder":"/home/prasant/Downloads/Downloads/React_Projects","configPath":"/home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/tailwind.config.js","isUserConfigured":false,"documentSelector":[{"pattern":"/home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/tailwind.config.js","priority":0},{"pattern":"/home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/**","priority":3},{"pattern":"/home/prasant/Downloads/Downloads/React_Projects/**","priority":5}]}]
-[Global] Adding watch patterns: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/tailwind.config.js, /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App, /home/prasant/Downloads/Downloads/React_Projects
-[Food_Ordering_App/tailwind.config.js] Initializing...
-[Food_Ordering_App/tailwind.config.js] Loaded Tailwind CSS config file: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/tailwind.config.js
-[Food_Ordering_App/tailwind.config.js] Loaded postcss v8.4.35: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/node_modules/postcss
-[Food_Ordering_App/tailwind.config.js] Loaded tailwindcss v3.4.1: /home/prasant/Downloads/Downloads/React_Projects/Food_Ordering_App/node_modules/tailwindcss
-[Food_Ordering_App/tailwind.config.js] Building...
